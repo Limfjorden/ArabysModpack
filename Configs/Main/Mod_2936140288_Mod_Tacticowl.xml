@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Tacticowl.ModSettings_Tacticowl">
+		<heavyWeapons />
+		<forbiddenWeapons />
+		<offHanders />
+		<twoHanders>
+			<li>BotchJob_DivineOrderPistol</li>
+			<li>BotchJob_DivineOrderMace</li>
+			<li>VFE_MeleeWeapon_DaneAxe</li>
+			<li>VFE_MeleeWeapon_DaneAxe</li>
+			<li>VFE_MeleeWeapon_DaneAxe</li>
+		</twoHanders>
+		<customRotations>
+			<keys />
+			<values />
+		</customRotations>
+	</ModSettings>
+</SettingsBlock>

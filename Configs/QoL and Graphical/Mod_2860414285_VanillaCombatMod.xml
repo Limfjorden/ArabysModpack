@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="VCR.VanillaCombatSettings">
+		<AdvancedArmor>True</AdvancedArmor>
+		<AdvancedAccuracy>True</AdvancedAccuracy>
+		<Evasion>True</Evasion>
+		<Parry>True</Parry>
+		<BulletsWorker>True</BulletsWorker>
+		<ArrowsWorker>True</ArrowsWorker>
+		<Flanking>True</Flanking>
+		<MeleeFlanking>True</MeleeFlanking>
+		<HandFeetPatch>True</HandFeetPatch>
+		<GlassesHelmetPatch>True</GlassesHelmetPatch>
+		<NoseMouthPatch>True</NoseMouthPatch>
+		<MaskPatch>True</MaskPatch>
+		<HeadsetPatch>True</HeadsetPatch>
+		<ArrayHeadsetPatch>True</ArrayHeadsetPatch>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterRomance.Settings">
+		<asexualChance>5</asexualChance>
+		<bisexualChance>15.78784</bisexualChance>
+		<gayChance>10.6992</gayChance>
+		<straightChance>70.71909</straightChance>
+		<aceAroChance>5</aceAroChance>
+		<aceBiChance>15.52688</aceBiChance>
+		<aceHomoChance>10.6992</aceHomoChance>
+		<aceHeteroChance>70.58862</aceHeteroChance>
+		<hookupRate>111.6611</hookupRate>
+		<fertilityMod>ludeon.rimworld.biotech</fertilityMod>
+		<joyOnSlaves>True</joyOnSlaves>
+		<joyOnPrisoners>True</joyOnPrisoners>
+	</ModSettings>
+</SettingsBlock>

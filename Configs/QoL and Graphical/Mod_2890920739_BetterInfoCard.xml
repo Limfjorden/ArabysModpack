@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BetterInfoCard.BetterInfoCardModSetting">
+		<FavoriteStatDrawIds>
+			<li>Fertility</li>
+			<li>WorkTableWorkSpeedFactor</li>
+		</FavoriteStatDrawIds>
+		<lesserIsBetterDefNames>
+			<li>Ability_CastingTime</li>
+			<li>Ability_RequiredPsylink</li>
+			<li>Ability_EntropyGain</li>
+			<li>Ability_PsyfocusCost</li>
+			<li>Ability_GoodwillImpact</li>
+			<li>Ability_DetectChancePerEntropy</li>
+			<li>Mass</li>
+			<li>Flammability</li>
+			<li>WorkToMake</li>
+			<li>DeteriorationRate</li>
+			<li>FoodPoisonChanceFixedHuman</li>
+			<li>FilthMultiplier</li>
+			<li>WorkToBuild</li>
+			<li>AimingDelayFactor</li>
+			<li>RangedCooldownFactor</li>
+			<li>MentalBreakThreshold</li>
+			<li>ComfyTemperatureMin</li>
+			<li>MinimumHandlingSkill</li>
+			<li>FilthRate</li>
+			<li>MaxNutrition</li>
+			<li>PsychicEntropyGain</li>
+			<li>CertaintyLossFactor</li>
+			<li>CancerRate</li>
+			<li>FoodPoisonChance</li>
+			<li>MeleeWeapon_CooldownMultiplier</li>
+			<li>RangedWeapon_Cooldown</li>
+			<li>BandwidthCost</li>
+			<li>ControlTakingTime</li>
+			<li>MechEnergyUsageFactor</li>
+			<li>WastepacksPerRecharge</li>
+			<li>MechEnergyLossPerHP</li>
+		</lesserIsBetterDefNames>
+	</ModSettings>
+</SettingsBlock>

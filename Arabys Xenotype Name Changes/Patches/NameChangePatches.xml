@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationReplace"> <!--Dirtmole name change-->
+        <xpath>Defs/XenotypeDef[defName="Dirtmole"]/label</xpath>
+        <value>
+            <label>khalad</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Dirtmole description change-->
+        <xpath>Defs/XenotypeDef[defName="Dirtmole"]/description</xpath>
+        <value>
+            <description>With gray skin adapted to artificial light, they thrive in cramped and dark spaces where combat and travel happen over short distances. They are extremely capable at digging or mining tasks. In the open, however, they suffer from a sensitivity to light, slow speed and poor eyesight at distance.\n\nAfter the first tunnel colonies failed due to the stress of confinement, colonization agencies began genetically altering colonists to live without open space or sunlight. This xenotype is known locally as the khalads. Today, khalads have expanded out of their original tunnel homes and rule many confined spaces in the anthrosphere. They can be found in deep mines, cramped low-tech spacecraft, and teeming by the billions in the dark underlayers of countless urbworlds.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Genie name change-->
+        <xpath>Defs/XenotypeDef[defName="Genie"]/label</xpath>
+        <value>
+            <label>jinn</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Genie description change-->
+        <xpath>Defs/XenotypeDef[defName="Genie"]/description</xpath>
+        <value>
+            <description>Designed to be engineers, the delicate bones and natural aptitude with machines of the genies (or as they are known on Arabys, the jinn) allow them to manipulate devices with remarkable precision. They are emotionally cold and can follow orders where others might panic. However, they are fragile, and their amplified nerve impulses make them easy to debilitate with relatively little pain. With so much of their brains dedicated to analyzing machines, they lack the neural hardware to analyze emotions, so they sometimes come off as socially inept. Their dead calm makes it even harder for them to relate to what they see as madly-hotheaded baseliner humans.\n\nGenies were engineered thousands of years ago by a long-disbanded space navy to hold engineering positions on large starships. Today, genies still serve as engineers in great cities and fleets, but many can also be found working as lawyers, pilots, and musicians.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Hussar name change-->
+        <xpath>Defs/XenotypeDef[defName="Hussar"]/label</xpath>
+        <value>
+            <label>hisar</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Hussar description change-->
+        <xpath>Defs/XenotypeDef[defName="Hussar"]/description</xpath>
+        <value>
+            <description>Hussars (on Arabys known as hisars) are engineered soldiers. They fight aggressively and with precision, heal fast, thrive in extreme temperatures, and freely ingest military drugs. They have a genetic dependence on go-juice, which also makes them less likely to rebel against their commanders.\n\nWhile hussars' emotions make them dangerous in combat, they can't relate to baseliner humans. They are famous for their blood-red eyes and "hussar stare", a dead expression that unsettles many people. Their lack of expression and burning aggressive nature has led to many violent misunderstandings.\n\nIn most societies where they live, hussars are kept separated from the rest of the population. Hussars are single-purpose tools - and they generally aren't bothered by the fact.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Pigskin name change-->
+        <xpath>Defs/XenotypeDef[defName="Pigskin"]/label</xpath>
+        <value>
+            <label>khinzir</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!-- Pigskin description change-->
+        <xpath>Defs/XenotypeDef[defName="Pigskin"]/description</xpath>
+        <value>
+            <description>Pigskins (on Arabys known as alkhanazir or just khinzirs) are human-pig hybrids which are capable of two-legged movement, tool use, and speech, but which also retain many pig-like qualities. They are hardy and can eat almost anything without getting sick, but their trotter-shaped hands leave them at a disadvantage when attempting to precisely manipulate tools and objects. They don't see well at a distance, so pigskin gangs usually focus on close-range weapons. They also have a strong taste for explosives.\n\nPigskins were made for their organs. Uncomfortable with the idea of harvesting organs from baseliner humans, a long-gone government merged human DNA into pigs to make the animals produce more easily-transplantable hearts and lungs. They succeeded, but the resulting creatures became more humanlike than anyone anticipated.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Impid name change-->
+        <xpath>Defs/XenotypeDef[defName="Impid"]/label</xpath>
+        <value>
+            <label>ifrit</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!-- Impid description change-->
+        <xpath>Defs/XenotypeDef[defName="Impid"]/description</xpath>
+        <value>
+            <description>Made for desert life, impid cultures live on many rimworlds and dry deathworlds such as Arabys, where they are known as Ifrits. Impids are extremely fast-moving, easily tolerate high temperatures, and can spew fire from their mouths. Though they are masters on the sand, impids struggle in other environments. They are terrible with farming. They fight well at range, but in close combat their physical weakness becomes apparent.\n\nOutlanders call them dustrunners because of their speed over open terrain and resistance to heat. Some tribes call them devils because of their horns and because they burn their enemies. Impid tribes' combat tactics usually center on rapid-approach incendiary attacks using both handheld fire weapons and their fire spew ability.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!--Waster name change-->
+        <xpath>Defs/XenotypeDef[defName="Waster"]/label</xpath>
+        <value>
+            <label>wadhebi</label> 
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!-- Waster description change-->
+        <xpath>Defs/XenotypeDef[defName="Waster"]/description</xpath>
+        <value>
+            <description>Wadhebis are aggressive, immune to toxic pollution, almost impervious to disease, and can ingest as much psychite and wake-up drugs as they wish with no ill effects. Their toxin-adapted metabolism means they must consume some form of psychite - usually flake or yayo.\n\nEndemic to Arabys, they were the victims of a series of Imperial Toxnuclear test blasts on the planet. The ones that survived the blasts were forever changed; hideous, grey-skinned and disgusting. Many wadhebi took up arms against the Empire and wadhebi bands armed with toxic weapons are the bane of many frontier peoples on Arabys.</description>
+        </value>
+    </Operation>
+    <Operation Class="PatchOperationReplace"> <!-- Waster short description change-->
+        <xpath>Defs/XenotypeDef[defName="Waster"]/descriptionShort</xpath>
+        <value>
+            <descriptionShort>Wadhebi are aggressive, immune to toxic pollution, almost impervious to disease, and can ingest as much psychite and wake-up drugs as they wish with no ill effects. Their toxin-adapted metabolism means they must consume some form of psychite - usually flake or yayo.</descriptionShort>
+        </value>
+    </Operation>
+</Patch>

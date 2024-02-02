@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FacialAnimation.FacialAnimationModSettings">
+		<DrawBrowsAboveHat>False</DrawBrowsAboveHat>
+		<DrawEyesParts>True</DrawEyesParts>
+		<EnableFacialAnimationMainTab>False</EnableFacialAnimationMainTab>
+	</ModSettings>
+</SettingsBlock>

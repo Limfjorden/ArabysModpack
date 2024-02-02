@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TribalMedicineRevamped.TribalMedicine_ModSettings">
+		<TM_Setting_EnableAltNames>True</TM_Setting_EnableAltNames>
+	</ModSettings>
+</SettingsBlock>

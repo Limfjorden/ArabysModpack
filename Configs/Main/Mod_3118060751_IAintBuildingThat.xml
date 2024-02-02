@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="IAintBuildingThat.Settings">
+		<hiddenBuildables>
+			<li>ThrumboRug_Broad</li>
+		</hiddenBuildables>
+	</ModSettings>
+</SettingsBlock>

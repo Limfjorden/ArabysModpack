@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MapPreview.MapPreviewSettings">
+		<EnableMapPreview>False</EnableMapPreview>
+		<EnableSeedRerollFeature>True</EnableSeedRerollFeature>
+		<EnableLandformSettingsIntegration>True</EnableLandformSettingsIntegration>
+		<PreviewWindowPos>(1748.0, 105.0)</PreviewWindowPos>
+		<ToolbarWindowPos>(1793.0, 1.0)</ToolbarWindowPos>
+	</ModSettings>
+</SettingsBlock>

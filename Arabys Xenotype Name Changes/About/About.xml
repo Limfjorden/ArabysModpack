@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>Limfjorden.ArabysXenotypeNameChanger</packageId>
+  <name>Arabys Xenotype Name Changer</name>
+  <author>Limfjorden</author>
+  <description>Changes the names of some default xenotypes Arabic/Islamic versions.</description>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <modVersion>1.0</modVersion>
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>vanillaracesexpanded.waster</li>
+  </loadAfter>
+</ModMetaData>

@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsMintMenus.Settings">
+		<BuildMenuPosNew>(0.0, 567.0)</BuildMenuPosNew>
+		<BuildMenuSizeNew>(1000.0, 550.0)</BuildMenuSizeNew>
+		<AutoCloseArchitect>False</AutoCloseArchitect>
+		<ShowMintBillsButton>True</ShowMintBillsButton>
+		<OrderBillsAz>True</OrderBillsAz>
+		<HideFinished>True</HideFinished>
+		<BoxSizeX>90</BoxSizeX>
+		<BoxSizeY>75</BoxSizeY>
+		<infocardW>350</infocardW>
+		<MaxHeight>650</MaxHeight>
+		<InfoWidth>358</InfoWidth>
+		<billTabH>300</billTabH>
+		<bBoxSizeY>55</bBoxSizeY>
+		<listWidth>445</listWidth>
+		<ResearchListWidth>350</ResearchListWidth>
+		<OverrideArchitect>True</OverrideArchitect>
+		<AutoFocus>True</AutoFocus>
+		<pinnedArchitectTabs />
+		<ResourceReadout />
+		<WheelDefs />
+		<FBenchTemplates>
+			<li>
+				<BenchTemplateName>Thing_CraftingSpot48877</BenchTemplateName>
+				<BenchDef>CraftingSpot</BenchDef>
+				<FBills>
+					<li Class="Bill_Production">
+						<loadID>-12</loadID>
+						<recipe>Make_Rawhide</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+							</disallowedSpecialFilters>
+							<allowedDefs>
+								<li>Hide_Plain</li>
+								<li>Hide_Thick</li>
+								<li>Hide_SoftPelt</li>
+								<li>Hide_HeavyPelt</li>
+								<li>Hide_Scale</li>
+								<li>Hide_Bird</li>
+								<li>Hide_Thrumbo</li>
+								<li>Hide_Fenrir</li>
+								<li>Hide_Lothurr</li>
+								<li>Hide_Njorun</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>60</targetCount>
+						<unpauseWhenYouHave>55</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+					</li>
+					<li Class="Bill_Production">
+						<loadID>-13</loadID>
+						<recipe>MakeClothHand</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters>
+								<li>AllowCorpsesColonist</li>
+								<li>AllowCorpsesStranger</li>
+								<li>AllowCorpsesSlave</li>
+								<li>AllowCorpsesMechFriendly</li>
+								<li>AllowCorpsesMechEnemy</li>
+							</disallowedSpecialFilters>
+							<allowedDefs>
+								<li>RawCotton</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>120</targetCount>
+						<unpauseWhenYouHave>115</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+					</li>
+					<li Class="Bill_ProductionWithUft">
+						<loadID>-14</loadID>
+						<recipe>Make_Apparel_FSDesertRobe</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters />
+							<allowedDefs>
+								<li>Cloth</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>2</targetCount>
+						<unpauseWhenYouHave>1</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+						<boundUft>null</boundUft>
+					</li>
+					<li Class="Bill_ProductionWithUft">
+						<loadID>-15</loadID>
+						<recipe>Make_Apparel_FSDesertWrap</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters />
+							<allowedDefs>
+								<li>Cloth</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>TargetCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>1</targetCount>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+						<boundUft>null</boundUft>
+					</li>
+					<li Class="Bill_ProductionWithUft">
+						<loadID>-16</loadID>
+						<recipe>Make_VFET_Apparel_TribalLight</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters />
+							<allowedDefs>
+								<li>Leather_Rawhide</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>TargetCount</repeatMode>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>1</targetCount>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+						<boundUft>null</boundUft>
+					</li>
+					<li Class="Bill_ProductionWithUft">
+						<loadID>-17</loadID>
+						<recipe>Make_Apparel_TribalA</recipe>
+						<allowedSkillRange>0~20</allowedSkillRange>
+						<pawnRestriction>null</pawnRestriction>
+						<precept>null</precept>
+						<xenogerm>null</xenogerm>
+						<ingredientFilter>
+							<disallowedSpecialFilters />
+							<allowedDefs>
+								<li>Cloth</li>
+							</allowedDefs>
+							<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+							<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
+						</ingredientFilter>
+						<htb_extraData IsNull="True" />
+						<repeatMode>RepeatCount</repeatMode>
+						<repeatCount>1</repeatCount>
+						<storeMode>BestStockpile</storeMode>
+						<storeZone>null</storeZone>
+						<targetCount>10</targetCount>
+						<unpauseWhenYouHave>5</unpauseWhenYouHave>
+						<includeFromZone>null</includeFromZone>
+						<productFilter IsNull="True" />
+						<boundUft>null</boundUft>
+					</li>
+				</FBills>
+			</li>
+		</FBenchTemplates>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DesirePaths.Settings">
+		<snowClearFactor>0.2</snowClearFactor>
+		<stoneSmoothThreshold>1000</stoneSmoothThreshold>
+	</ModSettings>
+</SettingsBlock>

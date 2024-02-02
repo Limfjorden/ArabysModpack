@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AchtungMod.AchtungSettings">
+		<positioningEnabled>True</positioningEnabled>
+		<rescueEnabled>True</rescueEnabled>
+		<achtungKey>Meta</achtungKey>
+		<forceCommandMenuMode>PressForPosition</forceCommandMenuMode>
+		<forceCommandMenuKey>Meta</forceCommandMenuKey>
+		<BreakLevel>AlmostExtreme</BreakLevel>
+		<HealthLevel>InPainShock</HealthLevel>
+		<ignoreForbidden>True</ignoreForbidden>
+		<ignoreRestrictions>True</ignoreRestrictions>
+		<ignoreAssignments>True</ignoreAssignments>
+		<workMarkers>Static</workMarkers>
+		<buildingSmartDefault>True</buildingSmartDefault>
+		<maxForcedItems>64</maxForcedItems>
+		<menuDelay>250</menuDelay>
+	</ModSettings>
+</SettingsBlock>

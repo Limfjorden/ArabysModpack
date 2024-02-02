@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AgingVisuals.AgingVisualsSettings">
+		<start_graying_hair_ratio>0.5</start_graying_hair_ratio>
+		<graying_yearly_ratio>0.25</graying_yearly_ratio>
+	</ModSettings>
+</SettingsBlock>

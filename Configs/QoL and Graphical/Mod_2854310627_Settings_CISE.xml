@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CaravanItemSelectionEnhanced.ModSettings_CISE">
+		<showLoadingList>True</showLoadingList>
+		<dropwDownMenuCaravanReformItemPreselection>True</dropwDownMenuCaravanReformItemPreselection>
+		<showSelectEverything>True</showSelectEverything>
+		<allowedHitpointRange>100</allowedHitpointRange>
+	</ModSettings>
+</SettingsBlock>

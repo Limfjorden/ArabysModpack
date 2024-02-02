@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GiddyUp.ModSettings_GiddyUp">
+		<automountDisabledByDefault>True</automountDisabledByDefault>
+		<invertMountingRules />
+		<invertDrawRules />
+		<offsetCache>
+			<keys>
+				<li>Bear_Grizzly/2</li>
+				<li>Bear_Polar/2</li>
+				<li>Muffalo/2</li>
+				<li>Bison/2</li>
+				<li>Dromedary/2</li>
+				<li>Yak/2</li>
+				<li>Horse/2</li>
+				<li>Donkey/2</li>
+				<li>Elephant/2</li>
+				<li>Rhinoceros/2</li>
+				<li>Thrumbo/2</li>
+				<li>Megasloth/2</li>
+				<li>Warg/2</li>
+				<li>BotchJob_DivineOrderHorse/2</li>
+				<li>RG_Hemolope/2</li>
+				<li>RG_Neutrolope/2</li>
+				<li>VFEV_WoolyCow/2</li>
+				<li>VFEV_Fenrir/2</li>
+				<li>VFEV_Lothurr/2</li>
+				<li>VFEV_Njorun/2</li>
+				<li>AEXP_Zebra/2</li>
+				<li>AEXP_Wildebeest/2</li>
+				<li>AEXP_BlackBear/2</li>
+				<li>AEXP_Lion/2</li>
+				<li>AEXP_Camel/2</li>
+				<li>AEXP_Tiger/2</li>
+				<li>AEXP_IndianElephant/2</li>
+				<li>AEXP_Muskox/2</li>
+				<li>AEXP_MegaWolverine/2</li>
+				<li>VAERoy_Crane/2</li>
+				<li>VAERoy_Orangutan/2</li>
+			</keys>
+			<values>
+				<li>1.03125</li>
+				<li>0.8232617</li>
+				<li>1.092969</li>
+				<li>1.070703</li>
+				<li>0.5585938</li>
+				<li>1.023652</li>
+				<li>0.7124609</li>
+				<li>0.6428711</li>
+				<li>1.166484</li>
+				<li>1.015039</li>
+				<li>1.502187</li>
+				<li>1.067773</li>
+				<li>0.8212402</li>
+				<li>0.7497656</li>
+				<li>0.9101563</li>
+				<li>0.9511719</li>
+				<li>0.7030273</li>
+				<li>0.8209962</li>
+				<li>1.546719</li>
+				<li>1.416797</li>
+				<li>0.6710742</li>
+				<li>0.8733594</li>
+				<li>0.7428125</li>
+				<li>0.6259726</li>
+				<li>1.326758</li>
+				<li>0.6879883</li>
+				<li>1.0375</li>
+				<li>0.9426758</li>
+				<li>0.757539</li>
+				<li>0.6239258</li>
+				<li>0.984375</li>
+			</values>
+		</offsetCache>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="BulletCasingMote.BulletCasingMoteSettings">
+		<BulletCasingMote_filth>False</BulletCasingMote_filth>
+		<BulletCasingMote_useWeaponRotation>True</BulletCasingMote_useWeaponRotation>
+		<BulletCasingMote_velocityFactor>2~3</BulletCasingMote_velocityFactor>
+		<BulletCasingMote_uncapCasingSize>False</BulletCasingMote_uncapCasingSize>
+		<BulletCasingMote_var1>0</BulletCasingMote_var1>
+		<BulletCasingMote_var2>0</BulletCasingMote_var2>
+		<BulletCasingMote_var3>0</BulletCasingMote_var3>
+	</ModSettings>
+</SettingsBlock>

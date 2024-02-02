@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CherryPicker.ModSettings_CherryPicker">
+		<keys>
+			<li>ThingDef/LWM_MealRack</li>
+			<li>ThingDef/LTS_NordvikenB</li>
+			<li>ThingDef/LTS_Fridge</li>
+			<li>ThingDef/LTS_HyllisS</li>
+			<li>ThingDef/LTS_HyllisL</li>
+			<li>ThingDef/LTS_HemnesSingle</li>
+			<li>ThingDef/LTS_HemnesDouble</li>
+			<li>ThingDef/LTS_Klimpfjall</li>
+			<li>ThingDef/LTS_Mullfjallet</li>
+			<li>ThingDef/LTS_StockholmSofa</li>
+			<li>ThingDef/LTS_Arkelstorp</li>
+			<li>ThingDef/LTS_Askholmen</li>
+			<li>ThingDef/LTS_NordvikenW</li>
+			<li>ThingDef/LTS_Gamlared</li>
+			<li>ThingDef/LTS_IdanasD</li>
+			<li>ThingDef/LTS_IdanasN</li>
+			<li>ThingDef/LTS_KoppangD</li>
+			<li>ThingDef/LTS_Havsta</li>
+			<li>ThingDef/LTS_Norraryd</li>
+			<li>ThingDef/LTS_Skogsta</li>
+			<li>ThingDef/LTS_KivikS</li>
+			<li>ThingDef/LTS_Kivik</li>
+			<li>ThingDef/LTS_Stockholm</li>
+			<li>ThingDef/LTS_WallTorch</li>
+			<li>ThingDef/LTS_BearRug</li>
+			<li>ThingDef/LTS_Counter</li>
+			<li>ThingDef/LTS_CounterB</li>
+			<li>ThingDef/LTS_CounterS</li>
+			<li>ThingDef/LTS_CounterG</li>
+			<li>ThingDef/LTS_Kyrre</li>
+			<li>ThingDef/Seat_SquareChair</li>
+		</keys>
+	</ModSettings>
+</SettingsBlock>

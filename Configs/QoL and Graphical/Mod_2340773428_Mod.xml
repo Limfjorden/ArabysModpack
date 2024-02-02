@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PawnTableGrouped.Settings">
+		<firstRun2>False</firstRun2>
+		<pawnTablesEnabled>
+			<li>Work</li>
+			<li>Assign</li>
+			<li>Restrict</li>
+			<li>Animals</li>
+			<li>Wildlife</li>
+			<li>Mechs</li>
+		</pawnTablesEnabled>
+	</ModSettings>
+</SettingsBlock>
